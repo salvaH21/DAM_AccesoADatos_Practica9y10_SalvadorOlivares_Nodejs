@@ -126,4 +126,4 @@ default:
     console.log("No has escrito un día")
 }
 
-console.log("Última consulta realizada: " + fecha.getDate()+"/"+(fecha.getMonth()+1)+"/"+fecha.getFullYear()+" a las "+fecha.getHours()+":"+fecha.getHours()+":"+fecha.getSeconds());
+console.log("Última consulta realizada: " + fecha.getDate()+"/"+(fecha.getMonth()+1)+"/"+fecha.getFullYear()+" a las "+fecha.getHours()+":"+fecha.getMinutes()+":"+fecha.getSeconds());

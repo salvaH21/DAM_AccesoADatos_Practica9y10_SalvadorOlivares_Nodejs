@@ -1,0 +1,1 @@
+db.formularios.updateOne({asunto:"Este es el primer correo"},{$set:{fecha:"2024-02-29"}});//primero el criterio de búsqueda, y luego lo que se quiere modificar

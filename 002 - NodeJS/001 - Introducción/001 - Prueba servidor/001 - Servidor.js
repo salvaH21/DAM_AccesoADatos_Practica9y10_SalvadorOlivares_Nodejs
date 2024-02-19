@@ -1,0 +1,1 @@
+var servidor = require('http'); //palabra reservada de nodejs que permite importar un módulo
